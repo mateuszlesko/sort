@@ -1,0 +1,29 @@
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\bin\Debug\sort.exe.config
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\bin\Debug\sort.exe
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\bin\Debug\sort.pdb
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\obj\Debug\sort.csprojResolveAssemblyReference.cache
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\obj\Debug\sort.Form1.resources
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\obj\Debug\sort.Properties.Resources.resources
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\obj\Debug\sort.csproj.GenerateResource.Cache
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\obj\Debug\sort.exe
+c:\users\oem\documents\visual studio 2015\Projects\sort\sort\obj\Debug\sort.pdb
+C:\Users\Oem\Desktop\sort\sort\bin\Debug\sort.exe.config
+C:\Users\Oem\Desktop\sort\sort\bin\Debug\sort.exe
+C:\Users\Oem\Desktop\sort\sort\bin\Debug\sort.pdb
+C:\Users\Oem\Desktop\sort\sort\obj\Debug\sort.csprojResolveAssemblyReference.cache
+C:\Users\Oem\Desktop\sort\sort\obj\Debug\sort.Form1.resources
+C:\Users\Oem\Desktop\sort\sort\obj\Debug\sort.Properties.Resources.resources
+C:\Users\Oem\Desktop\sort\sort\obj\Debug\sort.csproj.GenerateResource.Cache
+C:\Users\Oem\Desktop\sort\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+C:\Users\Oem\Desktop\sort\sort\obj\Debug\sort.exe
+C:\Users\Oem\Desktop\sort\sort\obj\Debug\sort.pdb
+C:\Users\Oem\Desktop\uczeń\sort\sort\bin\Debug\sort.exe.config
+C:\Users\Oem\Desktop\uczeń\sort\sort\bin\Debug\sort.exe
+C:\Users\Oem\Desktop\uczeń\sort\sort\bin\Debug\sort.pdb
+C:\Users\Oem\Desktop\uczeń\sort\sort\obj\Debug\sort.csprojResolveAssemblyReference.cache
+C:\Users\Oem\Desktop\uczeń\sort\sort\obj\Debug\sort.Form1.resources
+C:\Users\Oem\Desktop\uczeń\sort\sort\obj\Debug\sort.Properties.Resources.resources
+C:\Users\Oem\Desktop\uczeń\sort\sort\obj\Debug\sort.csproj.GenerateResource.Cache
+C:\Users\Oem\Desktop\uczeń\sort\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+C:\Users\Oem\Desktop\uczeń\sort\sort\obj\Debug\sort.exe
+C:\Users\Oem\Desktop\uczeń\sort\sort\obj\Debug\sort.pdb
